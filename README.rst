@@ -8,11 +8,7 @@ Installation
 
 From Pypi::
 
-  pip install docutils-ast-writer
-
-  or
-
-  easy_install docutils-ast-writer
+  pip install git+https://github.com/torbsorb/docutils-ast-writer.git
 
 Manual Installation::
 
